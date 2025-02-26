@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> d14dd0d7639a657f479ec0665853ef1f4d5d49b2
 /* Google fonts import*/
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Monomakh&display=swap');
 
@@ -22,11 +18,6 @@ body {
     /*General project styles*/
     color: #3a3a3a;
     font-family: 'Lato', sans-serif;
-<<<<<<< HEAD
-
-=======
-    
->>>>>>> d14dd0d7639a657f479ec0665853ef1f4d5d49b2
 }
 
 
@@ -111,7 +102,6 @@ main {
 
 
 /*Footer*/
-<<<<<<< HEAD
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -128,12 +118,6 @@ main {
 }
 
 
-=======
-footer{
-    background-color: orange
-}
-
->>>>>>> d14dd0d7639a657f479ec0665853ef1f4d5d49b2
 /* Media query: tablets and larger {768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
@@ -157,29 +141,4 @@ footer{
         display: none;
     }
 
-<<<<<<< HEAD
-=======
-    #logo {
-        font-size: 200%;
-        line-height: 75px;
-        margin: 0 0.5rem;
-    }
-
-/* Main content */
-main { 
-    /* Push main content down to accomodate larger header */
-    margin-top: 79px;
-}
-
-/* Large devices (laptops and desktops, 992 px and up) */
-@media screen and (min-width: 992px) {
-
-    #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
-    }
-    }
-
-
-
->>>>>>> d14dd0d7639a657f479ec0665853ef1f4d5d49b2
 }
